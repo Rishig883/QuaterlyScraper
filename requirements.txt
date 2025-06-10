@@ -1,0 +1,4 @@
+pandas==2.0.3
+patool==4.0.1
+playwright==1.52.0
+selenium==4.33.0
